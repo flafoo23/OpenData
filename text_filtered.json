@@ -6,17 +6,7 @@
       -27.315,
       152.76083
     ],
-    "name": "D\u2019Aguilar National Park",
-    "toponymName": "D\u2019Aguilar National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -27.315,
-      152.76083
-    ],
-    "name": "DAguilar National Park",
+    "name": "D'Aguilar National Park",
     "toponymName": "D'Aguilar National Park"
   },
   {
@@ -3006,8 +2996,8 @@
       -22.7487,
       150.04053
     ],
-    "name": "Mount O\u2019Connell National Park",
-    "toponymName": "Mount O\u2019Connell National Park"
+    "name": "Mount O'Connell National Park",
+    "toponymName": "Mount O'Connell National Park"
   },
   {
     "countryCode": "AU",
@@ -3016,8 +3006,8 @@
       -17.87861,
       146.06778
     ],
-    "name": "Tam O\u2019Shanter National Park",
-    "toponymName": "Tam O\u2019Shanter National Park"
+    "name": "Tam O'Shanter National Park",
+    "toponymName": "Tam O'Shanter National Park"
   },
   {
     "countryCode": "AU",
@@ -3026,8 +3016,8 @@
       -34.60575,
       115.9326
     ],
-    "name": "D\u2019Entrecasteaux National Park",
-    "toponymName": "D\u2019Entrecasteaux National Park"
+    "name": "D'Entrecasteaux National Park",
+    "toponymName": "D'Entrecasteaux National Park"
   },
   {
     "countryCode": "AU",
@@ -4633,26 +4623,6 @@
     "countryCode": "AU",
     "countryName": "Australia",
     "coordinates": [
-      -22.7487,
-      150.04053
-    ],
-    "name": "Mount O'Connell National Park",
-    "toponymName": "Mount O'Connell National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -17.87861,
-      146.06778
-    ],
-    "name": "Tam O'Shanter National Park",
-    "toponymName": "Tam O'Shanter National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
       -14.9544,
       133.18649
     ],
@@ -4908,16 +4878,6 @@
     ],
     "name": "Mungo National Park",
     "toponymName": "Mungo National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -31.1652,
-      142.5012
-    ],
-    "name": "Mutawintji National Park",
-    "toponymName": "Mutawintji National Park"
   },
   {
     "countryCode": "AU",
@@ -5403,16 +5363,6 @@
     "countryCode": "AU",
     "countryName": "Australia",
     "coordinates": [
-      -29.8152,
-      153.2679
-    ],
-    "name": "Yuraygir National Park",
-    "toponymName": "Yuraygir National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
       -33.3985,
       151.4846
     ],
@@ -5743,16 +5693,6 @@
     "countryCode": "AU",
     "countryName": "Australia",
     "coordinates": [
-      -32.0985,
-      151.0012
-    ],
-    "name": "Lake Glenbawn National Park",
-    "toponymName": "Lake Glenbawn National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
       -36.6652,
       149.9512
     ],
@@ -5778,176 +5718,6 @@
     ],
     "name": "Mootwingee National Park",
     "toponymName": "Mootwingee National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -33.71455,
-      143.12568
-    ],
-    "name": "Mungo National Park",
-    "toponymName": "Mungo National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -31.1652,
-      142.5012
-    ],
-    "name": "Mutawintji National Park",
-    "toponymName": "Mutawintji National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -33.4568,
-      150.0846
-    ],
-    "name": "Marrangaroo National Park",
-    "toponymName": "Marrangaroo National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -27.0858,
-      153.41579
-    ],
-    "name": "Moreton Island National Park",
-    "toponymName": "Moreton Island National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -23.21314,
-      150.6297
-    ],
-    "name": "Mount Jim Crow National Park",
-    "toponymName": "Mount Jim Crow National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -37.16899,
-      140.6244
-    ],
-    "name": "Mary Seymour National Park",
-    "toponymName": "Mary Seymour National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -36.06275,
-      139.77335
-    ],
-    "name": "Messent National Park",
-    "toponymName": "Messent National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -34.24094,
-      140.65819
-    ],
-    "name": "Murray River National Park",
-    "toponymName": "Murray River National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -28.37022,
-      137.38091
-    ],
-    "name": "Lake Eyre National Park",
-    "toponymName": "Lake Eyre National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -33.01431,
-      136.72649
-    ],
-    "name": "Lake Gilles National Park",
-    "toponymName": "Lake Gilles National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -32.82512,
-      138.06378
-    ],
-    "name": "Mambray Creek National Park",
-    "toponymName": "Mambray Creek National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -31.58832,
-      135.98828
-    ],
-    "name": "Lake Gairdner National Park",
-    "toponymName": "Lake Gairdner National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -38.26405,
-      141.42698
-    ],
-    "name": "Mount Richmond National Park",
-    "toponymName": "Mount Richmond National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -34.13215,
-      115.0349
-    ],
-    "name": "Leeuwin-Naturaliste National Park",
-    "toponymName": "Leeuwin-Naturaliste National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -32.14333,
-      116.1286
-    ],
-    "name": "Midgegooroo National Park",
-    "toponymName": "Midgegooroo National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -21.58451,
-      117.0977
-    ],
-    "name": "Millstream Chichester National Park",
-    "toponymName": "Millstream Chichester National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -24.33064,
-      116.8436
-    ],
-    "name": "Mount Augustus National Park",
-    "toponymName": "Mount Augustus National Park"
   },
   {
     "countryCode": "AU",
@@ -6043,71 +5813,11 @@
     "countryCode": "AU",
     "countryName": "Australia",
     "coordinates": [
-      -25.81174,
-      152.57439
-    ],
-    "name": "Mount Bauple National Park (Scientific)",
-    "toponymName": "Mount Bauple National Park (Scientific)"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -24.96731,
-      149.33388
-    ],
-    "name": "Palmgrove National Park (Scientific)",
-    "toponymName": "Palmgrove National Park (Scientific)"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -23.53176,
-      149.22247
-    ],
-    "name": "Taunton National Park (Scientific)",
-    "toponymName": "Taunton National Park (Scientific)"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
       -21.62428,
       146.90833
     ],
     "name": "Nairana National Park (Recovery)",
     "toponymName": "Nairana National Park (Recovery)"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -18.05111,
-      145.64583
-    ],
-    "name": "Kirrama National Park (Recovery)",
-    "toponymName": "Kirrama National Park (Recovery)"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -16.23639,
-      145.02472
-    ],
-    "name": "Mount Windsor National Park (Recovery)",
-    "toponymName": "Mount Windsor National Park (Recovery)"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -16.61167,
-      145.4525
-    ],
-    "name": "Mowbray National Park (Recovery)",
-    "toponymName": "Mowbray National Park (Recovery)"
   },
   {
     "countryCode": "AU",
@@ -6133,16 +5843,6 @@
     "countryCode": "AU",
     "countryName": "Australia",
     "coordinates": [
-      -16.97111,
-      145.63972
-    ],
-    "name": "Dinden National Park (Recovery)",
-    "toponymName": "Dinden National Park (Recovery)"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
       -17.11806,
       145.60362
     ],
@@ -6153,41 +5853,11 @@
     "countryCode": "AU",
     "countryName": "Australia",
     "coordinates": [
-      -19.09195,
-      146.30028
-    ],
-    "name": "Paluma Range (Gulbaru) National Park",
-    "toponymName": "Paluma Range (Gulbaru) National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -16.65611,
-      145.47499
-    ],
-    "name": "Kuranda National Park (Recovery)",
-    "toponymName": "Kuranda National Park (Recovery)"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
       -17.64917,
       145.70332
     ],
     "name": "Wooroonooran National Park (Recovery)",
     "toponymName": "Wooroonooran National Park (Recovery)"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -24.28472,
-      151.21028
-    ],
-    "name": "Wietalaba National Park (Recovery)",
-    "toponymName": "Wietalaba National Park (Recovery)"
   },
   {
     "countryCode": "AU",
@@ -6208,16 +5878,6 @@
     ],
     "name": "Annan River (Yuku Baja-Mulika) National Park",
     "toponymName": "Annan River (Yuku Baja-Mulika) National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -24.65,
-      151.20833
-    ],
-    "name": "Dawes National Park (Recovery)",
-    "toponymName": "Dawes National Park (Recovery)"
   },
   {
     "countryCode": "AU",
@@ -6258,16 +5918,6 @@
     ],
     "name": "Karijini National Park",
     "toponymName": "Karijini National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -34.60575,
-      115.9326
-    ],
-    "name": "d'Entrecasteaux National Park",
-    "toponymName": "d'Entrecasteaux National Park"
   },
   {
     "countryCode": "AU",
@@ -6408,16 +6058,6 @@
     ],
     "name": "Lawley River National Park",
     "toponymName": "Lawley River National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -34.83879,
-      135.74074
-    ],
-    "name": "Sleaford Mere Conservation Park",
-    "toponymName": "Sleaford Mere Conservation Park"
   },
   {
     "countryCode": "AU",
@@ -6643,16 +6283,6 @@
     "countryCode": "AU",
     "countryName": "Australia",
     "coordinates": [
-      -25.33927,
-      130.88884
-    ],
-    "name": "Uluru-Kata Tjuta National Park",
-    "toponymName": "Uluru-Kata Tjuta National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
       -25.2892,
       131.1664
     ],
@@ -6718,26 +6348,6 @@
     ],
     "name": "Mary River National Park",
     "toponymName": "Mary River National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -14.3167,
-      132.5667
-    ],
-    "name": "Katherine Gorge (Nitmiluk)  National Park",
-    "toponymName": "Katherine Gorge (Nitmiluk)  National Park"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "coordinates": [
-      -15.88815,
-      130.3069
-    ],
-    "name": "Judbarra / Gregory National Park",
-    "toponymName": "Judbarra / Gregory National Park"
   },
   {
     "countryCode": "AU",
